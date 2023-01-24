@@ -1,4 +1,4 @@
-# React-Native-Codepush
+# React-Native-Codepush-IOS
 A codepush sample 
 
 Last time the repo was working properly I was using these software versions:
