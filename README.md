@@ -8,10 +8,6 @@ React-native-cli: 2.0.1 <br />
 React-native: 0.70.6 <br />
 XCode: 14.2 
 
-## Android 
-
-*Still in progress*
-
 ## iOS
 
 Clone the project to a desired folder.
